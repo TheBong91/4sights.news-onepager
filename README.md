@@ -1,1 +1,1 @@
-# 4sights.news-onepager
+4sights
